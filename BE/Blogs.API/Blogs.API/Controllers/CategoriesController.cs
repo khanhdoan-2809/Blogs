@@ -1,7 +1,5 @@
-﻿using Blogs.API.Data;
-using Blogs.API.Models.Domain;
+﻿using Blogs.API.Models.Domain;
 using Blogs.API.Models.DTOs;
-using Blogs.API.Repositories.Implementation;
 using Blogs.API.Repositories.Interface;
 using Microsoft.AspNetCore.Mvc;
 
@@ -110,6 +108,30 @@ public class CategoriesController : ControllerBase
         };
         return Ok(response);
     }
- 
+
+    #endregion
+
+    #region Delete
+
+
+    [HttpDelete]
+    [Route("{id:Guid}")]
+    public async Task<IActionResult> DeleteCategory([FromRoute] Guid id)
+    {
+        var category = await _categoryRepository.DeleteAsync(id);
+        if (category is null)
+        {
+            return NotFound();
+        }
+
+        var response = new CategoryDto()
+        {
+            Id = category.Id,
+            Name = category.Name,
+            UrlHandle = category.UrlHandle
+        };
+
+        return Ok(response);
+    }
     #endregion
 }
