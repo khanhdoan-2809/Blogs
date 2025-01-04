@@ -56,7 +56,7 @@ public class CategoryRepository : ICategoryRepository
 
     #endregion
 
-    #region delete
+    #region Delete
     public async Task<Category?> DeleteAsync(Guid id)
     {
         var existingCategory = await _dbContext.Categories.FirstOrDefaultAsync(x => x.Id == id);

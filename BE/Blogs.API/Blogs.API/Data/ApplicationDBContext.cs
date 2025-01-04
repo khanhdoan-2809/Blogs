@@ -7,6 +7,6 @@ public class ApplicationDBContext: DbContext
     public ApplicationDBContext(DbContextOptions options): base(options) { 
     }
 
-    public DbSet<BlogSpot> BlogSpots { get; set; }
+    public DbSet<BlogPostDto> BlogSpots { get; set; }
     public DbSet<Category> Categories { get; set; }
 }
