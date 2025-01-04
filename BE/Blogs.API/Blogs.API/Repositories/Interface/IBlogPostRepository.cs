@@ -6,4 +6,6 @@ namespace Blogs.API.Repositories.Interface;
 public interface IBlogSpotRepository
 {
     Task<BlogPostDto> CreateAsync(BlogPostDto blogSpot);
+
+    Task<IEnumerable<BlogPost>> GetAllAsync();
 }

@@ -24,6 +24,11 @@ public class BlogPostRepository : IBlogSpotRepository
         return blogPost;
     }
 
+    public async Task<IEnumerable<BlogPost>> GetAllAsync()
+    {
+        await _dbContext.BlogSpots.ToListAsync();
+    }
+
     #endregion
 
 }
