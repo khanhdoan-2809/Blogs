@@ -1,7 +1,76 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\repositories\\implementation\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\repositories\\implementation\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\domains\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\domains\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\repositories\\interface\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\repositories\\interface\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\dtos\\createblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\dtos\\createblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\models\\domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\models\\domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|c:\\users\\khanh\\onedrive\\desktop\\project-github\\blogs\\be\\blogs.api\\blogs.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF281DA8-F932-4446-9F17-46051CE730FC}|Blogs.API\\Blogs.API.csproj|solutionrelative:blogs.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +78,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\BlogPostDto.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\DTOs\\BlogPostDto.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\BlogPostDto.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\DTOs\\BlogPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:09:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "RelativeToolTip": "Blogs.API\\Repositories\\Implementation\\BlogPostRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:03:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "RelativeToolTip": "Blogs.API\\Repositories\\Interface\\IBlogPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:02:27.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "Blogs.API\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:59:35.794Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -26,6 +147,169 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "Blogs.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwDoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:08:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "Blogs.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:07:17.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\Domains\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\Domains\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\Domains\\BlogPost.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\Domains\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:32:17.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Program.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Program.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Program.cs",
+              "RelativeToolTip": "Blogs.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:17:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBlogPostRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\CreateBlogPostRequestDto.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\DTOs\\CreateBlogPostRequestDto.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\CreateBlogPostRequestDto.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\DTOs\\CreateBlogPostRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:58:12.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\DTOs\\CreateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\DTOs\\CreateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:35:53.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Blogs.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Blogs.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T13:24:57.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Blogs.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAqwIMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:25:43.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\DTOs\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\DTOs\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:15:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:59:34.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Blogs.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\appsettings.json",
+              "RelativeToolTip": "Blogs.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T15:13:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\Domains\\Category.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Models\\Domains\\Category.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Models\\Domains\\Category.cs",
+              "RelativeToolTip": "Blogs.API\\Models\\Domains\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:34:08.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Blogs.API\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\khanh\\OneDrive\\Desktop\\project-github\\Blogs\\BE\\Blogs.API\\Blogs.API\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Blogs.API\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:43:23.785Z",
+              "EditorCaption": ""
             }
           ]
         }
