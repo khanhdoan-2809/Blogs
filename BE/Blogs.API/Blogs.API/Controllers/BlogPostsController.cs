@@ -31,7 +31,7 @@ public class BlogPostsController : ControllerBase
             ShortDescription = request.ShortDescription,
             Title = request.Title,
             UrlHandle = request.UrlHandle,
-        };
+        }; 
 
         blogSpot = await _blogSpotRepository.CreateAsync(blogSpot);
 
